@@ -1,6 +1,8 @@
 # UTRIP
 
-This project, developed in three distinct phases, introduces a sophisticated web interface for a hotel reservation system. The implementation process was divided into the following key phases:
+This project, developed in three distinct phases, introduces a sophisticated web interface for a hotel reservation system.
+
+![alt text](https://raw.githubusercontent.com/UTProjects/UTRIP/master/LOGO.png)
 
 ## Phases
 
